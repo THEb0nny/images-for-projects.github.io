@@ -1,2 +1,2 @@
-# squreo-tpl.github.io
+# images-for-projects.github.io
 ImagesForProjects
